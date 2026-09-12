@@ -1,0 +1,6 @@
+@RocketseatBookstoreManager_HostAddress = http://localhost:5109
+
+GET {{RocketseatBookstoreManager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
